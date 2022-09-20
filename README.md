@@ -8,7 +8,7 @@ This project presents examples for NRF52840 development board (Green Pill). All 
 ## Flashing 
 1. Open project folder with Vscode, (Platoformio extension must be installed)
 2. Press Ctrl-Alt-U, it will build and upload the project
-![images](upload.png)
+![Opened project](images/upload.png)
 3. See the results
 
 ## Mbed_Blinking_example_project
