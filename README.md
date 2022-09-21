@@ -28,4 +28,4 @@ In this project we read data from P0.02 pin and send it to connected bluetooth d
 ![Opened project](images/NRFConnectConnected.jpg)
 
 ## Arduino_Blinking_example_project
-This project also is classic led blinking, just flash the code and see how the board LED starts blinking.
+This project is also classic led blinking, just flash the code and see how the board LED starts blinking.
