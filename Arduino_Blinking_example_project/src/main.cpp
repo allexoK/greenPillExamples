@@ -2,11 +2,11 @@
 #include "pinmap.h"
 
 void setup() {
-  pinMode(P0_30,OUTPUT);
+  pinMode(P0_14,OUTPUT);
 }
 void loop() {
-  digitalWrite(P0_30,HIGH);
+  digitalWrite(P0_14,HIGH);
   delay(100);
-  digitalWrite(P0_30,LOW);
+  digitalWrite(P0_14,LOW);
   delay(100);
 }
